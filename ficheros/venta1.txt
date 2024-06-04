@@ -1,0 +1,4 @@
+Patente del Vehículo: GTYU23
+Edad del Cliente: 25
+Fecha de la Venta: 12052023
+Nombre de la Venta: venta1

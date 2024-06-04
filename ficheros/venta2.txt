@@ -1,0 +1,4 @@
+Patente del vehículo: GHUI43
+Edad del cliente: 32
+Fecha de la fenta: 4082022
+Nombre de la venta: venta2

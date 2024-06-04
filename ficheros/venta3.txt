@@ -1,0 +1,4 @@
+Patente del vehículo: BGYU56
+Edad del cliente: 56
+Fecha de la fenta: 9052006
+Nombre de la venta: venta3
